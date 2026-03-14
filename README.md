@@ -2,12 +2,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Amanda Jeniffer Rubio de Morais
+Matricula: 917343
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da tela](images/imagem.png)
 
 
 
